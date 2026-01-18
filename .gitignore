@@ -14,6 +14,7 @@ data/
 *.csv
 *.json
 *.xlsx
+*.html
 
 # OS
 .DS_Store
